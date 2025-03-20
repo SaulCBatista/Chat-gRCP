@@ -1,0 +1,16 @@
+chat\Chat$ChatMessageOrBuilder.class
+chat\ChatServiceGrpc$MethodHandlers.class
+chat\ChatServiceGrpc$ChatServiceBaseDescriptorSupplier.class
+chat\Chat$ChatMessage$1.class
+chat\ChatServiceGrpc$ChatServiceStub.class
+chat\Chat$ChatMessage.class
+chat\ChatServiceGrpc$ChatServiceBlockingStub.class
+chat\ChatServiceGrpc$ChatServiceFileDescriptorSupplier.class
+chat\Chat$ChatMessage$Builder.class
+chat\Chat.class
+chat\ChatServiceGrpc$1.class
+chat\ChatServiceGrpc$ChatServiceMethodDescriptorSupplier.class
+chat\ChatServiceGrpc$ChatServiceImplBase.class
+chat\Chat$1.class
+chat\ChatServiceGrpc$ChatServiceFutureStub.class
+chat\ChatServiceGrpc.class

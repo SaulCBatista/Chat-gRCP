@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package proto.chat;
+
+service ChatService {
+    rpc JoinChat (stream ChatMessage) returns (stream ChatMessage);
+}
+
+message ChatMessage {
+    string timestamp = 1;
+    string username = 2;
+    string message = 3;
+}
